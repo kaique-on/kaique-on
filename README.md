@@ -1,5 +1,6 @@
 ## Seja bem-vindo! 👋
-<p> Meu nome é Kaique Nascimento de Oliveira. Atualmente estou no ultimo ano do ensino médio e curso Desenvolvimento de Sistemas no Senai de Osasco. </p>
+<p> Meu nome é Kaique Nascimento de Oliveira.</p>
+<p>Estou no último ano do ensino médio e curso Desenvolvimento de Sistemas no Senai de Osasco.</p>
 <img src="https://sdl-stickershop.line.naver.jp/products/0/0/3/1333/android/stickers/23864.png;compress=true" height="206" width="279" align="right">
 
 
