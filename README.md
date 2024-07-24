@@ -1,6 +1,6 @@
 ## Seja bem-vindo! 👋
 <p> Meu nome é Kaique Nascimento de Oliveira.</p>
-<p>Estou cursando meu terceiro semestre em Análise e Desenvolvimento de Sistemas no Senai de Osasco.</p>
+<p>Estou cursando o primeiro semestre em Desenvolvimento de Software Multiplataforma na Fatec de Cotia e o último semestre em Análise e Desenvolvimento de Sistemas no Senai de Osasco.</p>
 <img src="https://sdl-stickershop.line.naver.jp/products/0/0/3/1333/android/stickers/23864.png;compress=true" height="206" width="279" align="right">
 
 
